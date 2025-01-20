@@ -1,0 +1,12 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+crewai 
+crewai-tools
+pydantic==2.4.2
+python-multipart==0.0.6
+beautifulsoup4==4.12.2
+requests==2.31.0
+groq
+langchain-groq
+youtube-transcript-api
